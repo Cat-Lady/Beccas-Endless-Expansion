@@ -24,7 +24,9 @@ outfit "Accurate Gatling Blaster"
 		"submunition" "gbullet"
 		"cluster"
 		"hit effect" "bullet impact"
-	description `Many decades ago, Kraz Cybernetics started a project to upgrade the ancient Gatling Gun design with newer designing technics. While they actually could increase its accuracy and make it maintain substained fire for a longer time, their weapon, the so-called Accurate Gatling Blaster, also requires more energy and more time to completely cool down, not to mention the higher cost and the bullets capacity reduced to little more than half.`
+	"maintenance costs" 86
+	"operating costs" 174
+	description `Many decades ago, Kraz Cybernetics started a project to upgrade the ancient Gatling Gun design with newer designing technics. While they actually could increase its accuracy and make it maintain substained fire for longer, their weapon, the so-called Accurate Gatling Blaster, also requires more energy and more time to completely cool down, not to mention the higher cost and the bullets capacity reduced to little more than half.`
 
 outfit "Ionic Blaster"
 	category "Guns"
@@ -50,6 +52,8 @@ outfit "Ionic Blaster"
 		"shield damage" 125
 		"hull damage" 32
 		"ion damage" 1.6
+	"maintenance costs" 2650
+	"operating costs" 5300
 	description "Since the Unfettered started their perennial war against the rest of the Hai, they tried to determinate which weapon they should produce the most. They preferred to focus on the Ion Cannon, but the largest downside was its huge size; because of that, it was impossible to mount many of them on a Shield Beetle. After dozens of years of research, a team finally developed a less bulky version, small enough to be installed in large numbers and more focused on normal damage to be also effective once the target's power sources became ineffective."
 
 outfit "Ionic Turret"
@@ -78,4 +82,6 @@ outfit "Ionic Turret"
 		"shield damage" 250
 		"hull damage" 64
 		"ion damage" 3.2
+	"maintenance costs" 6300
+	"operating costs" 12600
 	description "This is a dual turret version of the Ionic Blaster, the first weapon that the Unfetttered developed completely on their own."

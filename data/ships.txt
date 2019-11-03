@@ -192,6 +192,8 @@ ship "Solifuge"
 		`"Bondir" Atomic Thruster`
 		"Hyperdrive"
 		"Protection Station" 3
+	"maintenance costs" 114000
+	"operating costs" 228000
 			
 	engine -28 135.5
 	engine 28 135.5
@@ -451,6 +453,8 @@ ship "Modified Shield Beetle"
 		`"Bufaer" Atomic Steering`
 		"Ionic Rifle" 61
 		"Protection Station" 2
+	"maintenance costs" 127000
+	"operating costs" 254000
 	engine -42 134.5
 	engine 42 134.5
 	gun -21.5 -93
@@ -508,6 +512,8 @@ ship "Aphid"
 		`"Basrem" Atomic Steering`
 		"Hyperdrive"
 		"Protection Station" 2
+	"maintenance costs" 2850
+	"operating costs" 5700
 	engine -8 40
 	engine 8 40
 	turret 0 24 "Pulse Turret"
@@ -571,7 +577,10 @@ ship "Centipede"
 		`"Biroo" Atomic Steering`
 		`"Basrem" Atomic Steering`
 		Hyperdrive
-		
+
+	"maintenance costs" 3150
+	"operating costs" 6300
+
 	engine -15 113
 	engine 15 113
 	gun -11 -113 "Hai Tracker Pod"
@@ -644,6 +653,9 @@ ship "Geocoris"
 		`"Biroo" Atomic Thruster`
 		`"Bondir" Atomic Steering`
 		Hyperdrive
+
+	"maintenance costs" 62700
+	"operating costs" 125400
 
 	engine 100 39
 	engine -100 39
@@ -739,6 +751,10 @@ ship "Lightning Bug"
 		`"Benga" Atomic Thruster`
 		`"Biroo" Atomic Steering`
 		"Hyperdrive"
+
+	"maintenance costs" 16000
+	"operating costs" 32000
+
 	engine -40 22
 	engine 40 22
 	gun 0 -40 "Ion Cannon"
@@ -809,6 +825,10 @@ ship "Shield Beetle"
 		`"Bondir" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		"Hyperdrive"
+
+	"maintenance costs" 89500
+	"operating costs" 179000
+
 	engine -44 133
 	engine 44 133
 	gun -22 -102 "Ion Cannon"
@@ -920,6 +940,9 @@ ship "Violin Spider"
 		`"Basrem" Atomic Steering`
 		`"Basrem" Atomic Thruster`
 
+	"maintenance costs" 695
+	"operating costs" 1390
+
 	engine -15 30
 	engine 15 30
 	gun 0 -31 "Hai Tracker Pod"
@@ -982,6 +1005,10 @@ ship "Water Bug"
 		`"Benga" Atomic Thruster`
 		`"Benga" Atomic Steering`
 		"Hyperdrive"
+
+	"maintenance costs" 32500
+	"operating costs" 65000
+
 	engine -50 33
 	engine 50 33
 	gun -24 -53 "Hai Tracker Pod"
@@ -1149,7 +1176,10 @@ ship "Hurricane"
 		"Type 4 Radiant Thruster"
 		"Type 4 Radiant Steering"
 		"Hyperdrive"
-		
+
+	"maintenance costs" 521333
+	"operating costs" 1042667
+
 	engine -23 181
 	engine 23 181
 	gun -68 5
@@ -1272,6 +1302,9 @@ ship "Swan"
 		"Forge-Class Steering"
 		"Hyperdrive"
 
+	"maintenance costs" 135800
+	"operating costs" 271600
+
 	engine 0 114 
 	engine -16 106.5 0.7
 	engine 16 106.5 0.7
@@ -1390,6 +1423,9 @@ ship "Robin"
 		"Forge-Class Steering"
 		"Hyperdrive"
 
+	"maintenance costs" 17100
+	"operating costs" 34200
+
 	engine -18 35.5 0.5
 	engine 0 53.5
 	engine 18 35.5 0.5
@@ -1493,7 +1529,10 @@ ship "Far Ek Tek 243"
 		"Generator (Inferno Class)"
 		"Steering (Lunar Class)"
 		"Thruster (Lunar Class)"
-		
+
+	"maintenance costs" 115466
+	"operating costs" 230934
+
 	engine -43.5 150.5
 	engine 43.5 150.5
 	gun -26 -152

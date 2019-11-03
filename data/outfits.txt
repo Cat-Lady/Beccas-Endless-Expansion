@@ -5,6 +5,9 @@ outfit "Hai Squall Cooling"
 	"mass" 25
 	"outfit space" -25
 	"cooling" 41
+	"maintenance costs" 467
+	"operating costs" 935
+	"unplunderable" 1
 	description "With the escalation of their war against the Wanderers, the Unfettered understood that the Sunbeams were causing them problems partly due to the heat their ships were subject to. The Squall cooling system was their answer, larger than their previus coolings but also much more efficent."
 
 outfit "Hai Zephyr Cooling"
@@ -14,6 +17,9 @@ outfit "Hai Zephyr Cooling"
 	"mass" 14
 	"outfit space" -14
 	"cooling" 21
+	"maintenance costs" 190
+	"operating costs" 380
+	"unplunderable" 1
 	description "After the introduction of the Ionic Blaster and the consequential need of more reactors to power them, the Williwaw cooling wasn't anymore always enough. They developed this cooling outfit to avoid overheating when they want to use many Ionic Blasters at once."
 
 outfit `"Babreii" Afterburner`
@@ -27,6 +33,8 @@ outfit `"Babreii" Afterburner`
 	"afterburner fuel" .28
 	"afterburner heat" 7.2
 	"afterburner effect" "afterburner"
+	"maintenance costs" 650
+	"operating costs" 1300
 	description "Considered nothing more than a relic from the past among many Hai, this afterburner is one of their most ancient designs and that has received very small modifications in the last centuries. Only a small part of the Hai still use them."
 
 outfit "Ionic Rifle"
@@ -35,6 +43,8 @@ outfit "Ionic Rifle"
 	thumbnail "outfit/hai ionic rifle"
 	"capture attack" 1.2
 	"capture defense" 1.5
+	"maintenance costs" 95
+	"operating costs" 190
 	"unplunderable" 1
 	description "After the end of the Korath raids, most of the Hai stopped designing new weapons, included those intended to harm other Hai. The Unfettered instead projected this new rifle, with the capacity of shooting ionized shots in fast succession with a higher charge than the ones fired by the older Pulse Rifle."
 
@@ -45,6 +55,8 @@ outfit "Protection Station"
 	"mass" 2
 	"outfit space" -1
 	"capture defense" 3.1
+	"maintenance costs" 130
+	"operating costs" 260
 	"unplunderable" 1
 	description "This special barrier was first built just after the Raiders started attacking the Hai, but they never became popular because back then it was just a way to slow down the enemy boarders. Later on a Pulse Rifle was added to the base model making it much more useful, but they never gained success since the outfit space they take, even if it's not much, prevents a pilot from installing a large number on a ship without removing some components."
 
@@ -54,6 +66,8 @@ outfit "Heavy Laser Rifle"
 	thumbnail "outfit/heavy laser rifle"
 	"capture attack" 1
 	"capture defense" 1.4
+	"maintenance costs" 48
+	"operating costs" 97
 	"unplunderable" 1
 	description "The Heavy Laser Rifle is a recent invention of Kraz Cybernetics, an upgrade from the outdated weapon so common on many ships. While it is substantially better in than its base model, the cost is also much higher due to the materials used in its construction."
 
@@ -64,8 +78,10 @@ outfit "Professional Security Station"
 	"mass" 3
 	"outfit space" -3
 	"capture defense" 6.3
+	"maintenance costs" 216
+	"operating costs" 434
 	"unplunderable" 1
-	description "This defensive barrier is based on the original Security Station, but is much more recent. It has two blast doors in case the boarders can blow up one and features a turret connected to a computer placed on the other side of the barricade, where a crew member can safely control it."
+	description "This defensive barrier is based on the original Security Station, but is much more robust. It has two blast doors in case the boarders blowing one up, and features a turret connected to control panel placed on the other side of the barricade, where it can be safely operated."
 
 outfit "RT-II Radiothermal"
 	category "Power"
@@ -75,7 +91,10 @@ outfit "RT-II Radiothermal"
 	"outfit space" -63
 	"energy generation" 6.1
 	"heat generation" 27
-	description "A few hundreds of years ago, the northern anarchists didn't have access to any heavy generator except the RTI-I model, but with the increase of the ship systems power need they were starting to suffer of low energy more and more often. Their situation got better when one of the few manufacturers on their worlds developed a larger and more space efficent version, but they soon found out it creates more heat than the previus model."
+	"maintenance costs" 1416
+	"operating costs" 2834
+	"unplunderable" 1
+	description "A few hundreds of years ago, the northern anarchists didn't have access to any heavy generators except the RTI-I model, but with the increased power demand of the ship's systems, they were starting to suffer power shortages way too often. Situation improved when one of the few manufacturers on their worlds developed a larger and more space efficent version - but the crude markmanship comes with a cost, in form of increased heat generation."
 
 outfit "Wanderer Large Heat Sink"
 	category "Systems"
@@ -86,6 +105,8 @@ outfit "Wanderer Large Heat Sink"
 	"mass" 31
 	"outfit space" -31
 	"cooling" 57
+	"maintenance costs" 1906
+	"operating costs" 3814
 	description "When they started producing reactors so large that a simple Heat Sink wasn't enough anymore, the Wanderers understood that a new cooling system was necessary. The result is better than its predecessor, but it's still quite inefficent."
 
 outfit "Wanderer Heavy Anti-Missile"
@@ -108,6 +129,8 @@ outfit "Wanderer Heavy Anti-Missile"
 		"reload" 15
 		"firing energy" 60
 		"firing heat" 17
+	"maintenance costs" 16533
+	"operating costs" 33067
 	description "This anti-missile system is more powerful and a bit faster than the previous version, while also requiring more energy and creating more heat."
 
 outfit "Fuel Centrifuge"
@@ -119,4 +142,7 @@ outfit "Fuel Centrifuge"
 	"energy consumption" .4
 	"heat generation" 3
 	"fuel capacity" 400
+	"maintenance costs" 316
+	"operating costs" 634
+	"unplunderable" 1
 	description "Long ago, when a captain could refuel only on a handful, distant systems, running out of fuel was a serious risk: in addition to ramscoops, large fuel centrifuges were installed in most ships. They are able to contain hyperspace fuel in a few pods, but in the process that makes it possible it also becomes lass stable and to avoid starting dangerous reactions the containers need to keep rotating at a very high speed. All of this requires energy, and creates a considerable amount of heat."
