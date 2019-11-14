@@ -156,6 +156,8 @@ ship "Solifuge"
 		licenses
 			"Unfettered Militia"
 		"cost" 22800000
+		"maintenance costs" 114000
+		"operating costs" 228000
 		"shields" 37800
 		"hull" 11000
 		"required crew" 62
@@ -192,8 +194,6 @@ ship "Solifuge"
 		`"Bondir" Atomic Thruster`
 		"Hyperdrive"
 		"Protection Station" 3
-	"maintenance costs" 114000
-	"operating costs" 228000
 			
 	engine -28 135.5
 	engine 28 135.5
@@ -416,6 +416,8 @@ ship "Modified Shield Beetle"
 		licenses
 			"Unfettered Militia"
 		"cost" 25400000
+		"maintenance costs" 127000
+		"operating costs" 254000
 		"shields" 42000
 		"hull" 10600
 		"required crew" 59
@@ -453,8 +455,6 @@ ship "Modified Shield Beetle"
 		`"Bufaer" Atomic Steering`
 		"Ionic Rifle" 61
 		"Protection Station" 2
-	"maintenance costs" 127000
-	"operating costs" 254000
 	engine -42 134.5
 	engine 42 134.5
 	gun -21.5 -93
@@ -485,6 +485,8 @@ ship "Aphid"
 	attributes
 		category "Light Freighter"
 		"cost" 570000
+		"maintenance costs" 2850
+		"operating costs" 5700
 		"shields" 1700
 		"hull" 1400
 		"required crew" 1
@@ -512,8 +514,6 @@ ship "Aphid"
 		`"Basrem" Atomic Steering`
 		"Hyperdrive"
 		"Protection Station" 2
-	"maintenance costs" 2850
-	"operating costs" 5700
 	engine -8 40
 	engine 8 40
 	turret 0 24 "Pulse Turret"
@@ -545,6 +545,8 @@ ship "Centipede"
 	attributes
 		category "Transport"
 		"cost" 6300000
+		"maintenance costs" 31500
+		"operating costs" 63000
 		"shields" 6600
 		"hull" 2400
 		"required crew" 35
@@ -578,8 +580,6 @@ ship "Centipede"
 		`"Basrem" Atomic Steering`
 		Hyperdrive
 
-	"maintenance costs" 3150
-	"operating costs" 6300
 
 	engine -15 113
 	engine 15 113
@@ -624,6 +624,8 @@ ship "Geocoris"
 	attributes
 		category "Heavy Freighter"
 		"cost" 12540000
+		"maintenance costs" 62700
+		"operating costs" 125400
 		"shields" 13300
 		"hull" 6200
 		"required crew" 15
@@ -653,9 +655,6 @@ ship "Geocoris"
 		`"Biroo" Atomic Thruster`
 		`"Bondir" Atomic Steering`
 		Hyperdrive
-
-	"maintenance costs" 62700
-	"operating costs" 125400
 
 	engine 100 39
 	engine -100 39
@@ -722,6 +721,8 @@ ship "Lightning Bug"
 	attributes
 		category "Light Warship"
 		"cost" 3200000
+		"maintenance costs" 16000
+		"operating costs" 32000
 		"shields" 6700
 		"hull" 1700
 		"required crew" 4
@@ -751,9 +752,6 @@ ship "Lightning Bug"
 		`"Benga" Atomic Thruster`
 		`"Biroo" Atomic Steering`
 		"Hyperdrive"
-
-	"maintenance costs" 16000
-	"operating costs" 32000
 
 	engine -40 22
 	engine 40 22
@@ -791,6 +789,8 @@ ship "Shield Beetle"
 	attributes
 		category "Heavy Warship"
 		"cost" 17900000
+		"maintenance costs" 89500
+		"operating costs" 179000
 		"shields" 32000
 		"hull" 9800
 		"required crew" 47
@@ -826,8 +826,6 @@ ship "Shield Beetle"
 		`"Bufaer" Atomic Steering`
 		"Hyperdrive"
 
-	"maintenance costs" 89500
-	"operating costs" 179000
 
 	engine -44 133
 	engine 44 133
@@ -914,6 +912,8 @@ ship "Violin Spider"
 	attributes
 		category "Fighter"
 		"cost" 139000
+		"maintenance costs" 695
+		"operating costs" 1390
 		"shields" 1400
 		"hull" 600
 		"required crew" 1
@@ -940,8 +940,6 @@ ship "Violin Spider"
 		`"Basrem" Atomic Steering`
 		`"Basrem" Atomic Thruster`
 
-	"maintenance costs" 695
-	"operating costs" 1390
 
 	engine -15 30
 	engine 15 30
@@ -972,6 +970,8 @@ ship "Water Bug"
 	attributes
 		category "Heavy Freighter"
 		"cost" 6500000
+		"maintenance costs" 32500
+		"operating costs" 65000
 		"shields" 7900
 		"hull" 4500
 		"required crew" 5
@@ -1006,8 +1006,6 @@ ship "Water Bug"
 		`"Benga" Atomic Steering`
 		"Hyperdrive"
 
-	"maintenance costs" 32500
-	"operating costs" 65000
 
 	engine -50 33
 	engine 50 33
@@ -1142,6 +1140,8 @@ ship "Hurricane"
 		licenses
 			"Wanderer Military"
 		"cost" 39100000
+		"maintenance costs" 521333
+		"operating costs" 1042667
 		"shields" 72400
 		"hull" 46500
 		"required crew" 76
@@ -1177,8 +1177,6 @@ ship "Hurricane"
 		"Type 4 Radiant Steering"
 		"Hyperdrive"
 
-	"maintenance costs" 521333
-	"operating costs" 1042667
 
 	engine -23 181
 	engine 23 181
@@ -1256,6 +1254,8 @@ ship "Swan"
 		licenses
 			"Remnant Capital"
 		cost 13580000
+		"maintenance costs" 135800
+		"operating costs" 271600
 		"shields" 10400
 		"hull" 5350
 		"required crew" 31
@@ -1302,8 +1302,6 @@ ship "Swan"
 		"Forge-Class Steering"
 		"Hyperdrive"
 
-	"maintenance costs" 135800
-	"operating costs" 271600
 
 	engine 0 114 
 	engine -16 106.5 0.7
@@ -1391,6 +1389,8 @@ ship "Robin"
 		licenses
 			Remnant
 		cost 1710000
+		"maintenance costs" 17100
+		"operating costs" 34200
 		"shields" 1800
 		"hull" 1300
 		"required crew" 1
@@ -1423,8 +1423,6 @@ ship "Robin"
 		"Forge-Class Steering"
 		"Hyperdrive"
 
-	"maintenance costs" 17100
-	"operating costs" 34200
 
 	engine -18 35.5 0.5
 	engine 0 53.5
@@ -1494,6 +1492,8 @@ ship "Far Ek Tek 243"
 	attributes
 		category "Medium Warship"
 		"cost" 17320000
+		"maintenance costs" 115466
+		"operating costs" 230934
 		"shields" 25500
 		"hull" 18500
 		"mass" 510
@@ -1530,8 +1530,6 @@ ship "Far Ek Tek 243"
 		"Steering (Lunar Class)"
 		"Thruster (Lunar Class)"
 
-	"maintenance costs" 115466
-	"operating costs" 230934
 
 	engine -43.5 150.5
 	engine 43.5 150.5
